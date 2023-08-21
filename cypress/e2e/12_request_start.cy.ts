@@ -1,5 +1,0 @@
-it('requesty', () => {
-
-  cy.visit('/')
-
-});
